@@ -5,3 +5,5 @@ Topics covered in this project are:
 - Deep Learning
 - Computer Vision
 - Convolutional Neural Networks
+
+Note: In the actual dataset, the training set contains 4000 cat pictures and 4000 dog pictures, and the test set contains 1000 cat pictures and 1000 dog pictures. Hence, due to the large size of the actual dataset, only a sample dataset which is a scaled-down version of the actual dataset has been uploaded to this repository.
